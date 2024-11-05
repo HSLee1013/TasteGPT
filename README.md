@@ -34,22 +34,42 @@
 
 ## Key Features
 
--키워드 검색 기능
-![image](https://github.com/user-attachments/assets/20863c2a-9047-44a7-987f-41d5c1ed13d8)
+### 기본 기능
 
--지역 검색 기능
-![image](https://github.com/user-attachments/assets/abce46c7-1c8b-493a-be90-7258d9cd38a2)
+- 키워드 검색<br>
+<img src="https://github.com/user-attachments/assets/20863c2a-9047-44a7-987f-41d5c1ed13d8">
 
--가격대별 검색 기능
-![image](https://github.com/user-attachments/assets/b20e15a2-18c9-44f5-bf23-ec4ff9072bbd)
+- 지역 검색<br>
+<img src="https://github.com/user-attachments/assets/abce46c7-1c8b-493a-be90-7258d9cd38a2">
 
--유저 관련 기능(로그인/회원가입/아이디 찾기/비밀번호 찾기)<br>
+- 가격대별 검색<br>
+<img src="https://github.com/user-attachments/assets/b20e15a2-18c9-44f5-bf23-ec4ff9072bbd">
+
+### 유저 기능
+
+- 로그인/회원가입/아이디 찾기/비밀번호 찾기<br>
 <img src="https://github.com/user-attachments/assets/463c2861-6bb6-46a1-9405-ad274c746380" width="49%" height="49%">
 <img src="https://github.com/user-attachments/assets/30d3779c-0647-4b79-b7bd-b265bcb41439" width="49%" height="49%">
 <img src="https://github.com/user-attachments/assets/afd2361a-589e-4b55-b477-d3c5366aa7f0" width="49%" height="49%">
 <img src="https://github.com/user-attachments/assets/6237c17a-3e06-4601-8060-a5bfeb559d3f" width="49%" height="49%">
 
-![image](https://github.com/user-attachments/assets/30d3779c-0647-4b79-b7bd-b265bcb41439)
+- 회원 정보 수정<br>
+<img src="https://github.com/user-attachments/assets/e4df65a1-481f-49ef-8b80-b63667d109a0">
+
+- 가게/메뉴 추가<br>
+<img src="https://github.com/user-attachments/assets/03d10a42-fd51-4b53-ac91-8b4cf377f427" width="49%" height="49%">
+<img src="https://github.com/user-attachments/assets/e0dd8302-1237-44f0-a996-02cf297a0514" width="49%" height="49%">
+
+- 건의하기<br>
+<img src="https://github.com/user-attachments/assets/3c7eed6c-d198-4393-999b-772a78908653">
+
+### 관리자 기능
+
+- 유저 관리 기능<br>
+<img src="https://github.com/user-attachments/assets/36e7d42f-5e93-40d6-ae27-69b6246f70ca">
+
+- 건의사항 관리<br>
+<img src="https://github.com/user-attachments/assets/c5bab4ae-d2bd-4cec-9a10-5f8d5e74505f">
 
 
 - 핵심 기능 서술하기 위해 텍스트, 하이퍼링크와 스크린샷, 도표 등을 첨부해주세요.

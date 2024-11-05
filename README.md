@@ -45,7 +45,7 @@
 - 가격대별 검색<br>
 <img src="https://github.com/user-attachments/assets/b20e15a2-18c9-44f5-bf23-ec4ff9072bbd">
 
-### 유저 기능
+### 사용자 기능
 
 - 로그인/회원가입/아이디 찾기/비밀번호 찾기<br>
 <img src="https://github.com/user-attachments/assets/463c2861-6bb6-46a1-9405-ad274c746380" width="49%" height="49%">

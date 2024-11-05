@@ -71,45 +71,19 @@
 - 건의사항 관리<br>
 <img src="https://github.com/user-attachments/assets/c5bab4ae-d2bd-4cec-9a10-5f8d5e74505f">
 
-
-- 핵심 기능 서술하기 위해 텍스트, 하이퍼링크와 스크린샷, 도표 등을 첨부해주세요.
-
-> [!TIP]
-> 헤딩, 단락, 링크 및 도표, 목록, 인용 코드, 체크박스 작성법 등을 알아보세요
-> 
-> [Markdown 기분 문법 알아보기](https://www.markdownguide.org/basic-syntax/)
->
-> [Markdown Github 확장 문법 알아보기](https://docs.github.com/ko/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-> 도표 생성 문법이 어렵다면 생성기를 활용하세요 => [MD Table Generator](https://www.tablesgenerator.com/markdown_tables)
-
 ## How To Use / Development setup
 
-* 사용 환경과 사용법 설명
-* 또는 개발을 위한 개발환경 구축 설명하기
+빌드 환경: Maven<br>
+Dynamic Web Module 버전: 4.0<br>
+Java 버전: 1.8<br>
+JavaScript 버전: 1.0<br>
+서버 및 버전: Apache Tomcat v9.0<br>
+![image](https://github.com/user-attachments/assets/63f9b406-4421-4b66-89c5-ca4e7b3fded6)
 
-> To clone and run this application,
-> you'll need [Git](https://git-scm.com)
-> and [download Maven](https://maven.apache.org/download.cgi)
-> Maven is a Java tool, so you must have Java installed in order to proceed. Set the JAVA_HOME environment variable pointing to your JDK installation or have the java executable on your PATH.
+
+> **DB 설계**
 >
-> From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/username/app-repository
-
-# Go into the repository
-$ cd app-repository
-
-# Install dependencies
-$ maven package
-
-# Run the app
-$ java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App
-```
-
-> **Note** > [Oracle JDK](https://www.oracle.com/java/technologies/downloads/) or use OpenJDK.
+> ![image](https://github.com/user-attachments/assets/9f9682cc-ba05-46ec-83e4-f85d2f6e8510)
 
 ## Repository Structure
 

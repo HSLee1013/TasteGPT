@@ -52,7 +52,7 @@
   <a href="#what-is">What is?</a> |
   <a href="#key-features">Key Features</a> |
   <a href="#how-to-use--development-setup">How To Use</a> |
-  <a href="Role-and-feelings">Role and feelings</a> |
+  <a href="#Role-and-feelings">Role and feelings</a> |
   <a href="#authors">Authors</a>
 </p>
 

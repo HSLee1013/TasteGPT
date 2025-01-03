@@ -6,7 +6,7 @@
 <h1 align="center">
   Cafeteria
 </h1>
-<p align="center">">맛집 관련 클래스, 맛집 관련 Mapper와 SQL문 관련 클래스 </p>
+<p align="center">맛집 관련 클래스, 맛집 관련 Mapper와 SQL문 관련 클래스 </p>
 <p align="center">맛집, 리뷰, 사진 등의 클래스와 해당 클래스를 DB에 저장하기 위한 <br>
   Mapper, DynamicMapper 등의 SQL 문을 보유하고 있는 클래스들</p>
 
